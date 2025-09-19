@@ -1,0 +1,8 @@
+server:
+  port: 8889
+spring:
+  datasource:
+    url: jdbc:h2:mem:doctorsdb
+    driverClassName: org.h2.Driver
+    username: sa
+    password:
