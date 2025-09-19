@@ -1,5 +1,5 @@
 server:
-  port: 8081
+  port: 8889
 spring:
   datasource:
-    url: jdbc:h2:mem:doctordb
+    url: jdbc:h2:mem:doctorsdb
