@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:h2:mem:doctorsdb;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE
+    url: jdbc:h2:~/Downloads/spring-microservice-level-5/doctor-service/database/doctorsdb
     driverClassName: org.h2.Driver
     username: sa
     password:
